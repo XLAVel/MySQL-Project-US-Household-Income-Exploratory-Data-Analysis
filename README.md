@@ -1,5 +1,5 @@
 This project delves into the utilization of MySQL in the context of data transformation, exploratory analysis, and automation, focusing on its application in handling the US Household Income dataset to derive meaningful insights and identify general patterns in the data. These patterns include outliers and features of the data that might be unexpected. 
 
-My role is a data analyst that uses MySQL to help the audience understand the data better by showing them tables that they want to see. The stakeholders are the general population that are curious about the salaries and geography of States and Cities and other insights that could also be found.
+My professional engagement within this project entails the utilization of MySQL as a pivotal tool for facilitating enhanced comprehension of the dataset among stakeholders. These stakeholders represent a broad audience, primarily individuals keen on understanding various facets of salary distributions, geographic trends across states and cities, and other pertinent insights.
 
-With the stakeholders in mind, I decided to showcase to them an up-to-date exploratory analysis of the data showing states and cities that have the highest average income and other categories that could be insightful.
+With a keen awareness of stakeholder interests, my approach involves presenting an updated exploratory analysis of the dataset, highlighting states and cities characterized by the highest average incomes alongside other salient categories that offer valuable insights.
