@@ -95,5 +95,3 @@ Xavier Veloso
 Data Analyst
 
 LinkedIn: https://www.linkedin.com/in/xavierveloso/
-
-GitHub: (Add your GitHub profile)
